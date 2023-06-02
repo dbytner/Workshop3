@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "HR Application" %>
+<h1><%= "User Application" %>
 </h1>
 <br/>
 <a href="/jee_user_crud_war_exploded/user/list">Rozpocznij pracę</a>
